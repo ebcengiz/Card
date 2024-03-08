@@ -1,0 +1,61 @@
+body{
+    background-color: #DFE2FF;
+}
+
+
+.container{
+
+    width: 344px;
+    height: 263px;
+    border-radius: 32px;
+    border: solid 1px;
+    background-color: #FFFFFF;
+    box-sizing: border-box; /*paddingler taşmasın diye kullanılır*/
+    padding: 64px;
+}
+
+/* .subcontainer{
+} */
+
+.card-title{
+
+    color: #291F68;
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 24px;
+    margin: 0 0 16px 0;
+
+}
+
+.analytic-icon{
+ 
+    width: 28px;
+    height: 28px;
+    
+}
+
+.analytic-text{
+
+    font-family: "Poppins", sans-serif;
+    color: #291F68;
+    font-size: 16px;
+    font-weight: 500px;
+
+}
+
+.analytic{
+    display: inline-block;
+    align-items: center;
+    margin-right: 10px;
+    margin-bottom: 40px;
+}
+
+.card-footer{
+
+    font-family: "Poppins", sans-serif;
+    color: #291F68;
+    font-size: 14px;
+    font-weight: 500px;
+
+}
